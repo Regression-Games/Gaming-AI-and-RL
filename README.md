@@ -2,7 +2,9 @@
 
 This repository holds tutorials, guides, research, and resources around the space of artificial intelligence in games. Whether you are entirely new to the subject or an expert, we hope that these resources are useful! Please open pull requests and issues for requesting new material to be added. Let's make this repository one of the best resources for learning about and having fun with AIs in games.
 
-## Getting Started with the Concepts
+🧠 _Please contribute! Feel free to make a pull request with interesting resources_
+
+## 🕹 Getting Started with the Concepts
 
 [HuggingFace - Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 
@@ -14,7 +16,7 @@ This repository holds tutorials, guides, research, and resources around the spac
 
 [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
 
-## Reinforcement Learning Tutorials
+## 🤖 Reinforcement Learning Tutorials
 
 [HuggingFace - Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 
@@ -22,7 +24,9 @@ This repository holds tutorials, guides, research, and resources around the spac
 
 [Schooling Flappy Bird: A Reinforcement Learning Tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
 
-## Popular Frameworks
+[How to build AI vs AI RL agents - HuggingFace Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit7/introduction)
+
+## 🔗 Popular Frameworks
 
 ### Unity
 
@@ -32,7 +36,7 @@ This repository holds tutorials, guides, research, and resources around the spac
 
 [AI in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/artificial-intelligence-in-unreal-engine/)
 
-## Technical Readings and Papers
+## 📝 Technical Readings and Papers
 
 ### Reinforcement Learning
 
@@ -44,11 +48,19 @@ _Join our [Discord](https://discord.gg/925SYVse2H) for every new weekly paper th
 
 [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/pdf/2106.12142.pdf)
 
-## Other Resources
+### Exploring Agents and Games
+
+[Can Large Language Models Play Text Games Well?](https://arxiv.org/pdf/2304.02868.pdf)
+
+## 🦾 Other Resources
 
 ### Market Maps and Overviews
 
 [The Generative AI Revolution in Games (a16z)](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/)
+
+### In the News
+
+[AI Agents Simulate a Social Town](https://arstechnica.com/information-technology/2023/04/surprising-things-happen-when-you-put-25-ai-agents-together-in-an-rpg-town/)
 
 ### Other
 
