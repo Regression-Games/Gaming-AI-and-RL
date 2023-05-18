@@ -16,6 +16,8 @@ This repository holds tutorials, guides, research, and resources around the spac
 
 [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
 
+[Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+
 ## 🤖 Reinforcement Learning Tutorials
 
 [HuggingFace - Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
@@ -47,6 +49,8 @@ _Join our [Discord](https://discord.gg/925SYVse2H) for every new weekly paper th
 [Learning to Play Minecraft with Video PreTraining (VPT) (OpenAI)](https://openai.com/blog/vpt/)
 
 [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/pdf/2106.12142.pdf)
+
+[Reptile: A scalable meta-learning algorithm](https://openai.com/research/reptile)
 
 ### Exploring Agents and Games
 
