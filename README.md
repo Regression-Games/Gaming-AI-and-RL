@@ -28,6 +28,8 @@ This repository holds tutorials, guides, research, and resources around the spac
 
 [How to build AI vs AI RL agents - HuggingFace Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit7/introduction)
 
+[Kaggle: Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning?utm_source=regressiongg.beehiiv.com&utm_medium=referral&utm_campaign=ai-gaming-in-screeps-and-kaggle)
+
 ## 🔗 Popular Frameworks
 
 ### Unity
@@ -51,6 +53,8 @@ _Join our [Discord](https://discord.gg/925SYVse2H) for every new weekly paper th
 [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/pdf/2106.12142.pdf)
 
 [Reptile: A scalable meta-learning algorithm](https://openai.com/research/reptile)
+
+[PRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning](https://arxiv.org/pdf/2305.15486.pdf)
 
 ### Exploring Agents and Games
 
